@@ -137,7 +137,7 @@ containing
 
 ---
 
-# ⚙ Installation
+#  Installation
 
 Clone the repository
 
@@ -151,7 +151,7 @@ Move into the project
 cd sales-analytics-dashboard
 ```
 
-Create Virtual Environment
+Create a virtual environment
 
 ```bash
 python -m venv venv
@@ -199,37 +199,6 @@ Region-wise Revenue
 
 ---
 
-# Project Screenshots
-
-## Dashboard Output
-
-> *(Add Screenshot Here)*
-
----
-
-## Product-wise Sales
-
-> *(Add Screenshot Here)*
-
----
-
-## Region-wise Sales
-
-> *(Add Screenshot Here)*
-
----
-
-## Monthly Revenue Trend
-
-> *(Add Screenshot Here)*
-
----
-
-## Sales Distribution
-
-> *(Add Screenshot Here)*
-
----
 
 # Future Improvements
 
