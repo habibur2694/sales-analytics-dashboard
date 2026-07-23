@@ -230,7 +230,7 @@ Through this project, I learned
 
 GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/habibur2694
 
 LinkedIn
 
@@ -244,7 +244,7 @@ If you found this project helpful,
 
 Star this repository.
 
-🍴 Fork it.
+ Fork it.
 
 Share your feedback.
 
