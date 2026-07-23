@@ -1,0 +1,13 @@
+Date,Product,Category,Region,Quantity,Price
+2026-01-10,Laptop,Electronics,Dhaka,2,600
+2026-01-12,Phone,Electronics,Dhaka,4,200
+2026-01-15,Tablet,Electronics,Khulna,3,300
+2026-02-05,Laptop,Electronics,Chittagong,1,700
+2026-02-10,Phone,Electronics,Rajshahi,5,180
+2026-02-18,Tablet,Electronics,Dhaka,2,320
+2026-03-02,Laptop,Electronics,Khulna,3,650
+2026-03-08,Phone,Electronics,Chittagong,2,250
+2026-03-20,Tablet,Electronics,Rajshahi,4,280
+2026-04-05,Laptop,Electronics,Dhaka,2,800
+2026-04-15,Phone,Electronics,Khulna,5,210
+2026-04-22,Tablet,Electronics,Chittagong,3,330
